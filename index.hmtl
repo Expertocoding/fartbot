@@ -1,0 +1,7 @@
+<h2><a href="bot invite link">If you aren't redirected, please click here</a></h2>
+<script>
+    window.onload = myFunction();
+    function myFunction() {
+      location.replace("https://discord.com/oauth2/authorize?client_id=904862410349895780&permissions=137439332416&scope=bot") 
+    }
+    </script>
